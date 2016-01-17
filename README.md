@@ -1,8 +1,8 @@
 # WP New Tab
 
-Adds option in wp-admin to open posts/pages into a new tab.
+Adds an option in wp-admin to open posts/pages into a new tab.
 
-![View In New Tab](screenshot-1.jpg)
+![View In New Tab](screenshot-1.png)
 
 ## License
 
