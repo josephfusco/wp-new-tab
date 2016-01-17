@@ -1,6 +1,6 @@
 {
   "name": "josephfusco/wp-new-tab",
-  "description": "Simply adds option in wp-admin to open posts/pages in a new tab.",
+  "description": "Adds an option in wp-admin to open posts/pages in a new tab.",
   "keywords": ["wordpress", "plugin", "tab"],
   "homepage": "https://github.com/josephfusco/wp-new-tab",
   "license": "MIT",
