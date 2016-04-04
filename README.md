@@ -4,4 +4,4 @@
 
 Adds an option in wp-admin to open posts/pages into a new tab.
 
-![View In New Tab](screenshot-1.png)
+![View In New Tab](https://cloud.githubusercontent.com/assets/6676674/14251803/9c958bd6-fa52-11e5-9790-3bb2d2f9cf59.png)
