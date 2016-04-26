@@ -13,7 +13,6 @@ License URI:    http://www.gnu.org/licenses/gpl-2.0.html
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 function wpnt_add_new_tab_link( $actions, $page_object ) {
-
 	global $post;
 
 	if ( in_array( $post->post_status, array( 'pending', 'draft', 'future' ) ) ) {
