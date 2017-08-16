@@ -1,13 +1,14 @@
 <?php
 /*
-Plugin Name:    WP New Tab
-Plugin URI:     http://github.com/josephfusco/wp-new-tab/
-Description:    Adds option in wp-admin to open posts/pages in a new tab.
-Version:        1.0.1
-Author:         Joseph Fusco
-Author URI:     http://josephfus.co/
-License:        GPLv2 or later
-License URI:    http://www.gnu.org/licenses/gpl-2.0.html
+Plugin Name:       WP New Tab
+Plugin URI:        https://github.com/josephfusco/wp-new-tab/
+Description:       Adds option in wp-admin to open posts/pages in a new tab.
+Version:           1.0.1
+Author:            Joseph Fusco
+Author URI:        https://josephfus.co/
+License:           GPLv2 or later
+License URI:       http://www.gnu.org/licenses/gpl-2.0.html
+GitHub Plugin URI: josephfusco/wp-new-tab
 */
 
 if ( ! defined( 'ABSPATH' ) ) exit;
