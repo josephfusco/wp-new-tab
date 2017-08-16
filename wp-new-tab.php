@@ -3,7 +3,7 @@
 Plugin Name:       WP New Tab
 Plugin URI:        https://github.com/josephfusco/wp-new-tab/
 Description:       Adds option in wp-admin to open posts/pages in a new tab.
-Version:           1.0.1
+Version:           1.0.2
 Author:            Joseph Fusco
 Author URI:        https://josephfus.co/
 License:           GPLv2 or later
